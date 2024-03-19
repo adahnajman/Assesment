@@ -1,4 +1,5 @@
-Change connection setting in appsetting.json
+Change connection setting in appsetting.json.
+
 open swagger to do task below:
 1. Call function Login to get token
      - execute and copy token provided.
